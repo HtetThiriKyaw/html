@@ -1,0 +1,12 @@
+repositories create
+ terminal မှာ cd နဲ့ pj ထဲဝင်
+ git init
+ git remove ...
+ git commit -m "comit-name"
+ git add .
+  git commit -m "comit-name"
+git branch
+git push -u origin (branch name  )
+
+
+
