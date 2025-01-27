@@ -10,3 +10,9 @@ git push -u origin (branch name  )
 
 
 
+
+github code update
+
+git add .
+git commit -m "comit-name"
+git push
